@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FCC_OOP_DP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1518b032a5b2b57833bb43ca3220895c640b022e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FCC_OOP_DP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FCC_OOP_DP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
