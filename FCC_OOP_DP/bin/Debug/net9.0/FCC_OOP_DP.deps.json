@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "FCC_OOP_DP/1.0.0": {
+        "runtime": {
+          "FCC_OOP_DP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCC_OOP_DP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

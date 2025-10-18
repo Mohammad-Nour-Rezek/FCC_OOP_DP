@@ -1,0 +1,14 @@
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\bin\Debug\net9.0\FCC_OOP_DP.exe
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\bin\Debug\net9.0\FCC_OOP_DP.deps.json
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\bin\Debug\net9.0\FCC_OOP_DP.runtimeconfig.json
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\bin\Debug\net9.0\FCC_OOP_DP.dll
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\bin\Debug\net9.0\FCC_OOP_DP.pdb
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.AssemblyInfoInputs.cache
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.AssemblyInfo.cs
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.csproj.CoreCompileInputs.cache
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.dll
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\refint\FCC_OOP_DP.dll
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.pdb
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\FCC_OOP_DP.genruntimeconfig.cache
+F:\Web Projects\FCC_OOP_DP\FCC_OOP_DP\obj\Debug\net9.0\ref\FCC_OOP_DP.dll
